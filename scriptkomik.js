@@ -1,3 +1,4 @@
+/*<![CDATA[ */
 (function (e, t) {
     (function (e, t) {
         function a(e, t, a) {
@@ -757,3 +758,4 @@
         })()
     })(document, window);
 })(document, window);
+/*]]>*/
